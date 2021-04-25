@@ -17,4 +17,25 @@ class WebController extends Controller
         return view('home', compact($viewShareVars));
     }
 
+    /**
+     * The site's work page.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function work()
+    {
+        $viewShareVars = [];
+        return view('work', compact($viewShareVars));
+    }
+
+    /**
+     * The site's spare time page.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function spareTime()
+    {
+        $viewShareVars = [];
+        return view('spare-time', compact($viewShareVars));
+    }
 }

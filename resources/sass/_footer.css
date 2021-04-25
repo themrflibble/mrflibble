@@ -1,0 +1,23 @@
+.web-footer {
+    background: #222222;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    vertical-align: bottom;
+}
+.web-footer a, .web-footer a:hover, .web-footer a:link {
+    color: #469BBA;
+}
+.footer-link {
+    display: block;
+}
+address p {
+    margin-bottom: 0.1em;
+}
+.social-blk {
+    font-size: 24px;
+    padding: 1px;
+    width: 36px;
+    height: 36px;
+}

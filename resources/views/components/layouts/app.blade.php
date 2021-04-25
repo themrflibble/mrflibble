@@ -30,7 +30,7 @@
   <!-- Fonts -->
   <link rel="dns-prefetch" href="//fonts.gstatic.com">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Lora:300,400,700" rel="stylesheet">
   @stack('fonts')
 
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

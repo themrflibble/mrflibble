@@ -8,13 +8,6 @@ use Illuminate\View\Component;
 class NavbarWeb extends Component
 {
     /**
-     * The current Route location if there is one.
-     *
-     * @var Location|null
-     */
-    public $location;
-
-    /**
      * Create a new component instance.
      *
      * @return void

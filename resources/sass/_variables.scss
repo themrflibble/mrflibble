@@ -1,0 +1,84 @@
+@import 'color-helpers';
+
+$enable-gradients: true;
+
+// Bootstrap 4 grays
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+
+// Tempus colors
+$tempus-blue: #0A2D49;
+$tempus-orange: #FD5759;
+$tempus-white: #FFFCF6;
+
+$cryptology-blue: #469BBA;
+
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+$black: #010101;
+$white: #FEFEFE;
+
+// Override theme colours
+$primary: $tempus-orange;
+$link-color: $tempus-orange;
+$link-hover-color: black;
+
+$sizes: (
+  5: 5%,
+  10: 10%,
+  15: 15%,
+  20: 20%,
+  30: 30%,
+  33: 33%,
+  35: 35%,
+  40: 40%,
+  45: 45%,
+  67: 67%
+);
+
+$theme-colors: (
+    "tempus-blue": $tempus-blue,
+    "tempus-orange": $tempus-orange,
+    "tempus-white": $tempus-white,
+    "cryptology-blue": $cryptology-blue,
+    "dk-gray": $gray-900,
+    "med-gray": $gray-700,
+    "lt-gray": $gray-500,
+    "blue": $blue,
+    "indigo": $indigo,
+    "purple": $purple,
+    "pink": $pink,
+    "red": $red,
+    "orange": $orange,
+    "yellow": $yellow,
+    "green": $green,
+    "teal": $teal,
+    "cyan": $cyan,
+    "black": $black,
+    "white": $white,
+);
