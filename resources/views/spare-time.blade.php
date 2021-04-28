@@ -1,4 +1,4 @@
-<x-layout-web pagetitle="mrflibble - Mark Thompson">
+<x-layout-web pagetitle="mrflibble - Mark Thompson - Spare Time">
     <div class="container py-4">
         <div class="row">
             <div class="col">
@@ -6,16 +6,16 @@
 
                 <p class="mb-0">I tend not to watch TV and film, but have a number of YouTube Channels I really enjoy.</p>
                 <ul>
-                    <li>Vsauce</li>
-                    <li>Numberphile</li>
-                    <li>3Blue1Brown</li>
-                    <li>Mathologer</li>
-                    <li>Veritasium</li>
-                    <li>Sixty Symbols</li>
-                    <li>Periodic Videos</li>
-                    <li>12 Tone</li>
-                    <li>Rick Beato</li>
-                    <li>Dr. Becky</li>
+                    <li><a href="https://www.youtube.com/user/Vsauce">Vsauce</a></li>
+                    <li><a href="https://www.youtube.com/user/numberphile">Numberphile</a></li>
+                    <li><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a></li>
+                    <li><a href="https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg">Mathologer</a></li>
+                    <li><a href="https://www.youtube.com/user/1veritasium">Veritasium</a></li>
+                    <li><a href="https://www.youtube.com/user/sixtysymbols">Sixty Symbols</a></li>
+                    <li><a href="https://www.youtube.com/user/periodicvideos">Periodic Videos</a></li>
+                    <li><a href="https://www.youtube.com/channel/UCTUtqcDkzw7bisadh6AOx5w">12 Tone</a></li>
+                    <li><a href="https://www.youtube.com/user/pegzch">Rick Beato</a></li>
+                    <li><a href="https://www.youtube.com/channel/UCYNbYGl89UUowy8oXkipC-Q">Dr. Becky</a></li>
                 </ul>
                 <p class="mb-0">For the TV I have enjoyed:</p>
                 <ul>
