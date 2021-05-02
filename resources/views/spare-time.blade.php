@@ -9,6 +9,8 @@
                     <li><a href="https://www.youtube.com/user/Vsauce">Vsauce</a></li>
                     <li><a href="https://www.youtube.com/user/numberphile">Numberphile</a></li>
                     <li><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a></li>
+                    <li><a href="https://www.youtube.com/user/steventhebrave">Steve Mould</a></li>
+                    <li><a href="https://www.youtube.com/user/standupmaths">Stand-up Maths</a></li>
                     <li><a href="https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg">Mathologer</a></li>
                     <li><a href="https://www.youtube.com/user/1veritasium">Veritasium</a></li>
                     <li><a href="https://www.youtube.com/user/sixtysymbols">Sixty Symbols</a></li>
