@@ -1,6 +1,9 @@
 /node_modules
 /public/hot
 /public/storage
+/public/mix-manifest.json
+/public/js
+/public/css
 /storage/*.key
 /vendor
 .env
@@ -11,3 +14,12 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+ziggy.js
+dump.html
+report.html
+/laravel-echo-server.json
+laravel-echo-server.lock
+/storage/*.json
+dash.sublime-project
+dash.sublime-workspace
+/version
