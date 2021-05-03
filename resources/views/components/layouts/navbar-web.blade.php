@@ -1,5 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-tempus-blue">
-  <a class="navbar-brand pt-2" href="{{ route('home') }}">
+  <a
+    class="navbar-brand pt-2 @if(route('home') == Request::url()) active @endif"
+    href="{{ route('home') }}">
     Mark Thompson
   </a>
 
@@ -14,10 +16,14 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link" href="{{ route('work') }}">Work</a>
+        <a
+            class="nav-link @if(route('work') == Request::url()) active @endif"
+            href="{{ route('work') }}">Work</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{ route('spare-time') }}">Spare Time</a>
+        <a
+            class="nav-link @if(route('spare-time') == Request::url()) active @endif"
+            href="{{ route('spare-time') }}">Spare Time</a>
       </li>
     </ul>
   </div>
