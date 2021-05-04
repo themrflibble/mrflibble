@@ -16,9 +16,9 @@ html {
 body.web {
   font-family:'Montserrat', 'sans-serif';
   color: black;
-  background-color: #FFFF00;
-  /*background-color: #FFFCF6;*/
-  padding-top: 3.9em;
+  font-size: 18px;
+  background: rgb(240,240,248);
+  background: linear-gradient(90deg, rgba(240,240,248,1) 0%, rgba(250,250,255,1) 100%);
 }
 
 a, a:hover, a:link{
