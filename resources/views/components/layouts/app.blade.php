@@ -38,6 +38,8 @@
   <!-- Styles -->
   <link href="{{ mix('css/app.css') }}" rel="stylesheet">
   {{-- <link href="{{ mix('css/vue.css') }}" rel="stylesheet"> --}}
+
+  {!! Analytics::render() !!}
 </head>
 <body {{ $attributes->merge(['class' => 'h-100 ']) }}>
   <div id="app" class="h-100">
